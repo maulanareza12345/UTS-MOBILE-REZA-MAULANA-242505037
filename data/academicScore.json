@@ -1,0 +1,83 @@
+{
+  "identitas": {
+    "nama": "Reza Maulana",
+    "nim": "242505037",
+    "prodi": "Sistem Informasi (S1-R)",
+    "fakultas": "Komputer",
+    "kelas": "SI-R-5",
+    "universitas": "Universitas Ma'soem",
+    "mataKuliah": "Pemrograman Mobile 2",
+    "dosen": "Iin, M.Kom",
+    "tahunAjaran": "2026/2027 Ganjil",
+    "jenisUjian": "Ujian Tengah Semester (UTS) Project"
+  },
+  "currentScore": {
+    "nilai": 92,
+    "grade": "A",
+    "status": "Sangat Memuaskan",
+    "keterangan": "Memenuhi Target Tantangan Level 10 Industry"
+  },
+  "learningPoints": {
+    "totalLP": 12375,
+    "badgeTitle": "Master Cadet",
+    "rankTingkat": "Tier Diamond II",
+    "targetNextRank": 15000
+  },
+  "learningProgress": [
+    {
+      "id": "att",
+      "kategori": "Attendance",
+      "persentase": 100,
+      "icon": "📅",
+      "keterangan": "Hadir 100% di seluruh sesi perkuliahan",
+      "color": "#10b981"
+    },
+    {
+      "id": "prc",
+      "kategori": "Practice",
+      "persentase": 87,
+      "icon": "💻",
+      "keterangan": "Menyelesaikan modul latihan P1 hingga P5",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "qst",
+      "kategori": "Quest",
+      "persentase": 95,
+      "icon": "🎯",
+      "keterangan": "Pengerjaan tugas mandiri dan kuis mingguan",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "chl",
+      "kategori": "Challenge",
+      "persentase": 100,
+      "icon": "🏆",
+      "keterangan": "Implementasi proyek kumulatif Level 1 - 10 UTS",
+      "color": "#f59e0b"
+    }
+  ],
+  "timelineUjian": [
+    {
+      "minggu": "Minggu 1",
+      "fokus": "Level 1 - 3: Inisialisasi, Identitas Dasar & Layouting",
+      "status": "Selesai"
+    },
+    {
+      "minggu": "Minggu 2",
+      "fokus": "Level 4 - 6: State, Props, Pemisahan Data & Local JSON",
+      "status": "Selesai"
+    },
+    {
+      "minggu": "Minggu 3",
+      "fokus": "Level 7 - 8: Dynamic Skills, Portofolio & Score Dashboard",
+      "status": "Selesai"
+    },
+    {
+      "minggu": "Minggu 4",
+      "fokus": "Level 9 - 10: Multi-Screen Navigation & Production Architecture",
+      "status": "Sedang Berjalan"
+    }
+  ]
+}
+

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "nama": "PHP & Laravel Framework",
+    "kategori": "Web",
+    "tingkat": "Advanced",
+    "persentase": 92,
+    "icon": "🔴",
+    "deskripsi": "Pengembangan web full-stack, Eloquent ORM, integrasi basis data, dan arsitektur MVC."
+  },
+  {
+    "id": "2",
+    "nama": "React Native & Expo",
+    "kategori": "Mobile",
+    "tingkat": "Advanced",
+    "persentase": 90,
+    "icon": "⚛️",
+    "deskripsi": "Aplikasi mobile lintas platform, arsitektur Stack & Tab, State, dan FlatList dinamis."
+  },
+  {
+    "id": "3",
+    "nama": "Java & Visual Basic .NET",
+    "kategori": "Desktop",
+    "tingkat": "Proficient",
+    "persentase": 86,
+    "icon": "☕",
+    "deskripsi": "Aplikasi desktop (Java Swing, JDBC, VB.NET) dan pelaporan SAP Crystal Reports."
+  },
+  {
+    "id": "4",
+    "nama": "MySQL, MariaDB & Oracle PL/SQL",
+    "kategori": "Database",
+    "tingkat": "Advanced",
+    "persentase": 90,
+    "icon": "🗄️",
+    "deskripsi": "Perancangan basis data relasional multi-tabel, constraints, query kompleks & Stored Procedures."
+  },
+  {
+    "id": "5",
+    "nama": "HTML5, CSS3 & JavaScript",
+    "kategori": "Web",
+    "tingkat": "Advanced",
+    "persentase": 94,
+    "icon": "🎨",
+    "deskripsi": "Antarmuka responsif, modern layouting, manipulasi DOM, dan integrasi REST API."
+  },
+  {
+    "id": "6",
+    "nama": "Pemodelan UML & Analisis PIECES",
+    "kategori": "Analisis",
+    "tingkat": "Advanced",
+    "persentase": 92,
+    "icon": "📊",
+    "deskripsi": "Analisis proses bisnis, Use Case, Activity & Class Diagram, serta pemecahan masalah sistem."
+  },
+  {
+    "id": "7",
+    "nama": "Cisco Packet Tracer",
+    "kategori": "Jaringan",
+    "tingkat": "Proficient",
+    "persentase": 85,
+    "icon": "🌐",
+    "deskripsi": "Simulasi topologi multi-segmen, konfigurasi Static & RIP Routing, DHCP, dan Wireless AP."
+  },
+  {
+    "id": "8",
+    "nama": "Git, GitHub & Railway Cloud",
+    "kategori": "Tools",
+    "tingkat": "Proficient",
+    "persentase": 88,
+    "icon": "🐙",
+    "deskripsi": "Version control, kolaborasi repositori, manajemen branch, dan deployment cloud modern."
+  }
+]

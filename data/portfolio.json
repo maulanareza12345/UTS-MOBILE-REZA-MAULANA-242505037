@@ -1,0 +1,68 @@
+[
+  {
+    "id": "p1",
+    "judul": "SIPELDES — Sistem Informasi Pelayanan Administrasi Desa",
+    "kategori": "Web",
+    "deskripsi": "Aplikasi web untuk mendigitalisasi proses pengajuan dan pengarsipan surat pelayanan desa dengan integritas relasi basis data serta kontrol akun administratif ketat berbasis hak akses peran.",
+    "tech": ["Laravel", "PHP", "MySQL", "JavaScript", "UML", "PIECES"],
+    "status": "Selesai",
+    "tahun": "2026",
+    "icon": "🏛️",
+    "peran": "Lead Web Developer & System Analyst"
+  },
+  {
+    "id": "p2",
+    "judul": "Aplikasi Mobile Multi-Screen & Katalog Dinamis",
+    "kategori": "Mobile",
+    "deskripsi": "Aplikasi mobile lintas platform dengan arsitektur navigasi Stack & Bottom-Tab, manajemen state terpusat, optimasi pencarian debouncing, serta perenderan FlatList dinamis.",
+    "tech": ["React Native", "Expo SDK 58", "JavaScript", "TypeScript"],
+    "status": "Selesai",
+    "tahun": "2026",
+    "icon": "📱",
+    "peran": "Mobile App Developer"
+  },
+  {
+    "id": "p3",
+    "judul": "Prototipe Mobile E-Commerce Koleksi Pop Culture",
+    "kategori": "Mobile",
+    "deskripsi": "Membangun purwarupa aplikasi perdagangan elektronik (e-commerce) berbasis Android untuk katalog produk dan alur pemesanan produk koleksi.",
+    "tech": ["Kodular", "Android", "Mobile UI", "REST API"],
+    "status": "Selesai",
+    "tahun": "2026",
+    "icon": "🛍️",
+    "peran": "Mobile Prototype Developer"
+  },
+  {
+    "id": "p4",
+    "judul": "Aplikasi Desktop POS & Manajemen Penjualan",
+    "kategori": "Desktop",
+    "deskripsi": "Sistem kasir dan manajemen transaksi penjualan desktop terintegrasi basis data MySQL serta pembuatan laporan transaksi otomatis menggunakan SAP Crystal Reports.",
+    "tech": ["VB.NET", "MySQL", "Crystal Reports", "Desktop"],
+    "status": "Selesai",
+    "tahun": "2026",
+    "icon": "🖥️",
+    "peran": "Desktop Application Developer"
+  },
+  {
+    "id": "p5",
+    "judul": "Aplikasi Desktop Manajemen Keanggotaan Gym",
+    "kategori": "Desktop",
+    "deskripsi": "Aplikasi desktop berbasis Java untuk pengelolaan data anggota dan transaksi dengan arsitektur basis data relasional multi-tabel serta Stored Procedures Oracle PL/SQL.",
+    "tech": ["Java Swing", "JDBC", "Oracle 11g", "PL/SQL"],
+    "status": "Selesai",
+    "tahun": "2025 – 2026",
+    "icon": "🏋️",
+    "peran": "Java & Database Developer"
+  },
+  {
+    "id": "p6",
+    "judul": "Simulasi Topologi & Infrastruktur Jaringan",
+    "kategori": "Jaringan",
+    "deskripsi": "Merancang dan mensimulasikan jaringan komputer multi-segmen dengan konfigurasi Static Routing, Dynamic Routing (RIP), DHCP Server, serta integrasi Wireless Access Point.",
+    "tech": ["Cisco Packet Tracer", "Static/RIP Routing", "DHCP", "Wireless"],
+    "status": "Selesai",
+    "tahun": "2025 – 2026",
+    "icon": "🌐",
+    "peran": "Network Infrastructure Designer"
+  }
+]
